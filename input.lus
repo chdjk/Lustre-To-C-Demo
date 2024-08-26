@@ -1,0 +1,4 @@
+node use_pre(a : int ;c : int) returns(b : int)
+let
+    b = pre a + c;
+tel
