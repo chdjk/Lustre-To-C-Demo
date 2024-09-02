@@ -7,4 +7,6 @@
 
 输出：/C_Program/nodename
 
-请勿将C_Program文件夹删除，否则可能会运行失败。
+请勿将C_Program文件夹删除，否则可能会运行失败
+
+input.lus文件的Lustre代码中节点名字需固定为use_pre
